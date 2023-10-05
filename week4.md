@@ -24,7 +24,6 @@ Vue uses single-file components (.vue).
 
 ## 2.Look at the syntax of a js/template file from each. Identify something vanilla in each and something library specific in each (8 total items here)?
 **React:**
-
 ```jsx
 import logo from './logo.svg';
 import './App.css';
@@ -103,9 +102,8 @@ In each of these examples:
 **Vanilla (Generic JavaScript)** represents code that doesn't rely on the specific framework or library and can be used in any JavaScript project.
 
 **Library/Framework-Specific** elements are those that rely on the particular syntax, conventions, or features of the respective framework or library. These elements are unique to their respective ecosystems.
-## 3.Review package.json - What is common amongst them, what's different? What commands can we run? Try to run all the different commands in the repo for each project.
-Certainly, here's a shorter version:
 
+## 3.Review package.json - What is common amongst them, what's different? What commands can we run? Try to run all the different commands in the repo for each project.
 **Common Elements:**
 
 1. All `package.json` files contain project name and version information.
@@ -139,8 +137,6 @@ Certainly, here's a shorter version:
 - Start: `npm run serve` or `yarn serve`
 - Build: `npm run build` or `yarn build`
 - Test: `npm run test` or `yarn test`
-
-Specific command names and configurations can differ, so check the project's documentation for precise details.
 
 ## 4.Rank order these for readability / ease of your understanding and give a brief justification as to why you thought 1 was the easiest and 4 was the hardest to understand (or that you didn't understand!)
 i thought that vue was the simplest one to use because of the way it was laid out compared to the rest. the html/css/js was laid out clearly and it wasnt very difficult to figure out how to customize it compared to the rest. 
